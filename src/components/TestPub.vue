@@ -10,6 +10,8 @@
       <div>{{ element.name }}</div>
     </template>
   </draggable>
+  <!-- If you annotate the above, the following components will be published successfully -->
+  <!-- <button>test publish btn</button> -->
 </template>
 
 <script setup lang="ts">
